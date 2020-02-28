@@ -1,3 +1,6 @@
+This is my personal project, i just creating to exercise my skills.
+This project is not finished, yet :)! But, i will finishing according my time and ideas.;
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
