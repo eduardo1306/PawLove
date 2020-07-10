@@ -7,18 +7,18 @@
 #### When i back to the project, i will reformulate the technologies. I probably will use:
 <pre>
   <h4>
-Front End:                         Mobile:                                           Backend
-- React with Typescript;           - React-Native with Typescript;                   - Postgres Database;
-- React-Spring;                    - React-Navigation;                               - DBeaver;
-- React-Router-Dom;                - Styled-Components;                              - Docker;
-- Styled-Components;               - Axios;                                          - Node with Typescript;
-- Polished;                                                                          - TypeOrm;
-- Axios;                                                                             - Express;
-                                                                                     - Celebrate;
-                                                                                     - Multer;
-                                                                                     - JWT;
-                                                                                     - Cors;
-                                                                                     - Rest Api;
+Backend                         Front End:                         Mobile:                         
+- Postgres Database;            - React with Typescript;           - React-Native with Typescript;                   
+- DBeaver;                      - React-Spring;                    - React-Navigation;                               
+- Docker;                       - React-Router-Dom;                - Styled-Components;                              
+- Node with Typescript;         - Styled-Components;               - Axios;                                          
+- TypeOrm;                      - Polished;                                                                          
+- Express;                      - Axios;                                                                             
+- Celebrate;
+- Multer;
+- JWT;
+- Cors;
+- Rest Api;
   </h4>
 </pre>
 
