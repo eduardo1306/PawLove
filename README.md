@@ -5,32 +5,22 @@
 
 ##  Technologies
 #### When i back to the project, i will reformulate the technologies. I probably will use:
-#### Front End:
-##### - React with Typescript;
-##### - React-Spring;
-##### - React-Router-Dom;
-##### - Styled-Components;
-##### - Polished;
-##### - Axios;
-
-#### Mobile:
-##### - React-Native with Typescript;
-##### - React-Navigation;
-##### - Styled-Components;
-##### - Axios;
-
-#### Backend:
-##### - Node with Typescript;
-##### - TypeOrm;
-##### - DBeaver;
-##### - Docker;
-##### - Express;
-##### - Celebrate;
-##### - Multer;
-##### - JWT;
-##### - Cors;
-##### - Rest Api;
-##### - Postgres Database;
+<pre>
+  <h4>
+Front End:                         Mobile:                                           Backend
+- React with Typescript;           - React-Native with Typescript;                   - Postgres Database;
+- React-Spring;                    - React-Navigation;                               - DBeaver;
+- React-Router-Dom;                - Styled-Components;                              - Docker;
+- Styled-Components;               - Axios;                                          - Node with Typescript;
+- Polished;                                                                          - TypeOrm;
+- Axios;                                                                             - Express;
+                                                                                     - Celebrate;
+                                                                                     - Multer;
+                                                                                     - JWT;
+                                                                                     - Cors;
+                                                                                     - Rest Api;
+  </h4>
+</pre>
 
 ## Available Scripts
 
