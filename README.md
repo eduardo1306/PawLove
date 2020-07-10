@@ -5,22 +5,39 @@ Obs.: PawLove isn't ready yet.
 
 ##  Technologies
 When i back to the project, i will reformulate the technologies. I probably will use:
-<pre>
-  <h4>
-Backend                         Front End:                         Mobile:                         
-- Postgres Database;            - React with Typescript;           - React-Native with Typescript;                   
-- DBeaver;                      - React-Spring;                    - React-Navigation;                               
-- Docker;                       - React-Router-Dom;                - Styled-Components;                              
-- Node with Typescript;         - Styled-Components;               - Axios;                                          
-- TypeOrm;                      - Polished;                                                                          
-- Express;                      - Axios;                                                                             
-- Celebrate;
-- Multer;
-- JWT;
-- Cors;
-- Rest Api;
-  </h4>
-</pre>
+
+<h3>
+Backend<br />
+* Postgres Database;<br />                          
+- DBeaver;<br />                                                         
+- Docker;<br />                                                          
+- Node with Typescript;<br />                                                                 
+- TypeOrm;<br />                                                                                               
+- Express;<br />                                                                                                 
+- Celebrate;<br />
+- Multer;<br />
+- JWT;<br />
+- Cors;<br />
+- Rest Api;<br />
+</h3>
+
+<h3>
+Front End:<br />
+- React with Typescript;<br />
+- React-Native with Typescript;<br />
+- React-Spring;<br />
+- React-Router-Dom; <br />
+- Styled-Components;<br /> 
+- Polished;<br />
+- Axios;<br />
+</h3>
+
+<h3>
+Mobile:<br /> 
+- React-Navigation;<br />
+- Styled-Components;<br />   
+- Axios;<br />
+</h3>
 
 <h2>Available Scripts</h2>
 
